@@ -13,7 +13,7 @@ Resumen de la página web oficial <http://getbootstrap.com/>.  También decir qu
 
 
 [1]:1-GettingStarted.md
-[2]:2.md
+[2]:2-CSS.md
 [3]:3.md
 [4]:4.md
 [5]:5.md
