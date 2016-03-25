@@ -9,6 +9,6 @@ Inicialmente haré algunas pruebas a ver cómo se comporta el superset de *markd
 Resúmenes
 ---------
 
-[01 - Estructura inicial de HTML5](01-Estructura_HTML5)
-
-
+[01 - Estructura inicial de HTML5](01-Estructura_HTML5.md)
+[02 - Etiquetas HEAD](02-Etiquetas_head.md)
+[03 - Etiquetas BODY](03-Etiquetas_body.md)
