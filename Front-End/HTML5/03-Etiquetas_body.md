@@ -91,9 +91,11 @@ Tablas
 	* `<colgroup>` - Define un grupo de columnas en una tabla
 		* `<col>` - Define los atributos de la columna en una tabla
 
-1. `<thead>` se mostrará al principio, luego `<tbody>` y finalmente `<tfoot>` aunque en el html estén en otro orden.
-2. `<th>` se usa para `<thead>` y `<td>` para `<tfoot>` y `<tbody>`, pueden contener varias filas (no son sustitutos de `<tr>`)
-3. `<colgroup>` se usa para definir un estilo dentro de una tabla, no sustituye a otros elementos, es una ayuda adicional. Ej en una tabla de 2 columnas.
+**Notas:**
+
+* `<thead>` se mostrará al principio, luego `<tbody>` y finalmente `<tfoot>` aunque en el html estén en otro orden.
+* `<th>` se usa para `<thead>` y `<td>` para `<tfoot>` y `<tbody>`, pueden contener varias filas (no son sustitutos de `<tr>`)
+* `<colgroup>` se usa para definir un estilo dentro de una tabla, no sustituye a otros elementos, es una ayuda adicional. Ej en una tabla de 2 columnas.
 
 ```html
 	<table>
