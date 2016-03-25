@@ -1,4 +1,5 @@
-<img src="HTML5_Logo.svg" alt="HTML5 Logo" style="display: block; width:50%; height:50%; align:center; margin: 0 auto;">
+![HTML5 Logo](HTML5_Badge_512.png)
+
 HTML5
 =====
 Ahora que ya tengo un poco con *markdown* estoy adaptando los antiguos resúmenes dentro de este nuevo proyecto, más amplio ya que además de posibles resúmenes míos también incluiré referencias u otros trabajos externos.
