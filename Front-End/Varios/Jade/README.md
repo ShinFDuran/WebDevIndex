@@ -11,3 +11,4 @@ Iba a hacer un resumen y luego ampliar, pero no veo que sea una buena opción, a
 * [Etiquetas: Uso, anidamiento, texto y atributos](02-Etiquetas.md)
 * [Comentarios](03-Comentarios.md)
 * [Estructura básica de una página](04-Estructura.md)
+* [Plantillas: Inclusiones y extensiones](05-Plantillas.md)
