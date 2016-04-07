@@ -12,3 +12,6 @@ Iba a hacer un resumen y luego ampliar, pero no veo que sea una buena opción, a
 * [Comentarios](03-Comentarios.md)
 * [Estructura básica de una página](04-Estructura.md)
 * [Plantillas: Inclusiones y extensiones](05-Plantillas.md)
+* [Variables e interpolación](06-Variables.md)
+* [Sentencias condicionales, case y blucles each y while](07-Sentencias.md)
+* [Filtros y Mixins](08-Otros.md)
