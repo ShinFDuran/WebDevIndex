@@ -32,13 +32,13 @@ El siguiente código *Sass*:
 
 ```
 $fuente: 16px
-$familia: 'Arial'
+$familia: 'Times'
 
 body
   // Ejemplo de uso de una variable como valor
   font-size: $fuente
   // Interpolación de texto
-  font-family: #{$familia + ', sans-serif'}
+  font-family: '#{$familia} New Roman', serif
 
 h1
   // Interpolación usando la operación de multiplicar
