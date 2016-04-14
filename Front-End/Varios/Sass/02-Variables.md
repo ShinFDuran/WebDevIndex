@@ -23,6 +23,17 @@ Definir una variable es muy sencillo, tan sólo hay que tener en cuenta que debe
 
 	$nombreVariable: valorVariable
 
+## Tipos de datos
+
+Aunque tendamos a usarlos sin mas, hay que tener claro que Sass usa seis tipos de datos:
+
+* Números: Aquí inclimos tanto los simples somo son 3 o 3.5 como los *"copuestos"* como 16px. Sobre ellos se pueden utilizar operaciones matemáticas (16px * 1.5)
+* Cadenas de texto o stings: Las definimos sin comillas o entre comillas simples o dobles cuando es una única palabra o con comillas cuando son varias
+* Colores: Aquí pueden ser con palabras referidas al color, código hexadecimal o rgba (red, #FF0000, rgba(255, 0, 0, 0.9))
+* Valores booleanos: true o false. Muy útiles con ciertas directivas
+* Valores nulos
+* Listas de valores: Los diferentes valores estarán separados por espacios en blanco o comas (10px 1px solid black)
+* Mapas o pares de valores: Compuestos por una clave y un valor separados por : 
 
 ## Interpolación -> Variables o expresiones
 
